@@ -64,9 +64,13 @@
 		float: right;
 		background-color: #2E77FF;
 		color: white;
-		padding: 10px;
-		border-radius: 5px;
+		padding-top: 6px;
+		padding-bottom: 6px;
+		padding-left: 15px;
+		padding-right: 15px;
+		border-radius: 2px;
 		border: none;
+		font-style: bold;
 	
 	}
 	
