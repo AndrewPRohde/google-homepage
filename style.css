@@ -24,13 +24,13 @@
 	#button1 {
 		width: 150px;
 		height: 40px;
-		border: none;
+		border-radius: 2px;
 	}
 	
 	#button2 {
 		width: 150px;
 		height: 40px;
-		border: none;
+		border-radius: 2px;
 	}
 	
 	#container {
@@ -74,9 +74,9 @@
 	
 	}
 	
-	button:hover {
+	.button:hover {
 		color: black;
-		border: 1px solid #000000;
+		border: 2px solid #cccccc;
 		background-color: #f2f2f2;
 	
 	}
