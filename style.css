@@ -1,5 +1,4 @@
 	img {
-		padding-left: 50px;
 		padding-top: 50px;
 		
 		}
@@ -17,8 +16,8 @@
 		border: 1px solid #cccccc;
 		border-radius: 2px;
 		box-shadow: 2px 2px 1px #cccccc;
-		line-height: 35px;
-		padding-left: 10px;
+		line-height: 40px;
+		
 	}
 	
 	#button1 {
@@ -121,6 +120,17 @@
 		padding-left: 15px;
 		padding-right: 15px;
 		height: 35px;
+	}
+	
+	
+	
+	#search {
+		width: 70%;
+		border: 1px solid #cccccc;
+		border-radius: 2px;
+		box-shadow: 2px 2px 1px #cccccc;
+		line-height: 35px;
+		padding-left: 10px;
 	}
 
 
